@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+![Screenshot 2024-04-12 175814](https://github.com/Harish119306/Potential-Maker/assets/124718353/145003c0-8872-4c66-9942-8f3361753a96)# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -74,3 +74,9 @@ some images of our progressive web app-
 
 
 ![WhatsApp Image 2024-04-12 at 17 05 27](https://github.com/Harish119306/Potential-Maker/assets/124718353/41e736d6-e94b-45db-bd7c-c6ac809ce2b6)
+
+
+
+![Screenshot 2024-04-12 175814](https://github.com/Harish119306/Potential-Maker/assets/124718353/d6126321-8ae1-4fb7-bc8c-5058b3bf9c20)
+![WhatsApp Image 2024-04-12 at 18 02 05](https://github.com/Harish119306/Potential-Maker/assets/124718353/3930a27f-2f83-42bd-ad73-591ccdf51769)
+
