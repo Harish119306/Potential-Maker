@@ -1,0 +1,80 @@
+
+.nav1{
+  
+  display: flex;
+  justify-content: space-around;
+  /* font-family: "Poppins"; */
+  padding: 20px;
+  font-size: 18px;
+  position:inherit;
+  padding-top: 49px;
+  overflow: hidden;
+
+}
+.but1{
+  height: 23px;
+  position: relative;
+  font-size: 16px;
+  box-shadow: black 5px;
+  
+  left: 7px;
+  top: 1px;
+  background-color: black;
+  color: white;
+}
+.nav{
+  height:731px;
+  background-color: rgba(255, 233, 206, 1);
+}
+.a1{
+  font-weight: 600;
+  left: 27px;
+    position: relative;
+}
+.a6{
+  position: relative;
+    left: 117px;
+    font-weight: 600;
+}
+.a2{position: relative;
+  left: 230px;}
+.a3{
+  position: relative;
+  left: 135px;
+}
+.a4{
+  position: relative;
+  left: 47px;
+}.a5{
+  position: relative;
+  right: 35px;
+}
+.text{
+  width: 50%;
+  font-size: 85px;
+  position: relative;
+  left: 106px;
+  top: 10px;
+  font-weight: 620;
+  height: 587px;
+}
+.main1{
+  display: flex;
+  height: 631px;
+
+}
+.image1{
+  width: 50%;
+  position: relative;
+    right: 600px;
+    bottom: 120px;
+}
+.but2{
+  background-color: black;
+    color: white;
+    position: relative;
+    width: 181px;
+    left: 6px;
+    height: 45px;
+    bottom: 309px;
+}
