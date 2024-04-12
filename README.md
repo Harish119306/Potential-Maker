@@ -1,4 +1,4 @@
-![Screenshot 2024-04-12 175814](https://github.com/Harish119306/Potential-Maker/assets/124718353/145003c0-8872-4c66-9942-8f3361753a96)# Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
