@@ -1,4 +1,4 @@
-![Importance-of-Mentor-in-a-Students-life-removebg-preview 1](https://github.com/Harish119306/Potential-Maker/assets/124718353/1f378485-5cf7-47e3-9777-2825123cf086)![Importance-of-Mentor-in-a-Students-life-removebg-preview 1](https://github.com/Harish119306/Potential-Maker/assets/124718353/fc731b88-89d2-4a7e-8a85-973a8c4327f9)# Getting Started with Create React App
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
